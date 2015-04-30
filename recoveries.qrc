@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>recovery/aries.img</file>
+        <file>recovery/armani.img</file>
+        <file>recovery/cancro.img</file>
+        <file>recovery/dior.img</file>
+        <file>recovery/virgo.img</file>
+    </qresource>
+</RCC>
